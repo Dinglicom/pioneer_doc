@@ -374,7 +374,7 @@ Click the **Connect** icon on the toolbar to display current test information in
 
 5. Click the button beside the force command to send the command.
 
-   ![figure5-5]()
+   ![figure5-5](https://cdn.jsdelivr.net/gh/Brandoooon/pioneer_doc/img/figure5-5.png)
 
 ## 5.5 AT Command
 
